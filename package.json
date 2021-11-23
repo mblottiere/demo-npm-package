@@ -1,6 +1,6 @@
 {
-  "name": "@Kelvin-M/demo-npm-package",
-  "version": "1.0.3",
+  "name": "@mblottiere/demo-npm-package",
+  "version": "1.0.4",
   "description": "packaging demo",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/mblottiere/demo-npm-package#readme",
   "publishConfig": {
-    "@Kelvin-M:registry": "https://npm.pkg.github.com"
+    "@mblottiere:registry": "https://npm.pkg.github.com"
   }
 }
