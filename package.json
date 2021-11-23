@@ -1,5 +1,5 @@
 {
-  "name": "demo-npm-package",
+  "name": "@mblottiere/demo-npm-package",
   "version": "1.0.0",
   "description": "packaging demo",
   "main": "index.js",
