@@ -12,7 +12,6 @@
   },
   "author": "",
   "license": "UNLICENSED",
-  "private": true,
   "bugs": {
     "url": "https://github.com/mblottiere/demo-npm-package/issues"
   },
