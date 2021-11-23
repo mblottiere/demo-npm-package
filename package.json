@@ -1,0 +1,20 @@
+{
+  "name": "demo-npm-package",
+  "version": "1.0.0",
+  "description": "packaging demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mblottiere/demo-npm-package.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/mblottiere/demo-npm-package/issues"
+  },
+  "homepage": "https://github.com/mblottiere/demo-npm-package#readme"
+}
