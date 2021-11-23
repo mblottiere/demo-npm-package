@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"don't test, don't fail\" && exit 0"
   },
+  "bin": "./index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mblottiere/demo-npm-package.git"
