@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mblottiere/demo-npm-package/issues"
   },
-  "homepage": "https://github.com/mblottiere/demo-npm-package#readme"
+  "homepage": "https://github.com/mblottiere/demo-npm-package#readme",
+  "publishConfig": {
+    "@mblottiere:registry": "https://npm.pkg.github.com"
+  }
 }
